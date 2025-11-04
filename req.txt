@@ -1,0 +1,13 @@
+pandas
+requests
+numpy
+plotly
+streamlit
+matplotlib
+langchain-google-genai
+python-dotenv
+langchain==0.2.14
+langchain-community==0.2.11
+langchain-google-genai==1.0.8
+langchain-experimental==0.0.62
+tabulate
