@@ -1,5 +1,6 @@
 # Clinical Trial Analytics Dashboard
 ## Objective
+[Demo video ](https://youtu.be/p26_u8e-8Vo?si=eh4OGOBQHrJ7HtHN)
 
 The Clinical Trial Analytics Dashboard is designed to simplify and automate the analysis of clinical trial data sourced from ClinicalTrials.gov.
 It aggregates study-level information, evaluates trial sites based on data quality, enrollment, and recency, and visualizes site-level and study-level performance.
